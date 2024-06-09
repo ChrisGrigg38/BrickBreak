@@ -1,0 +1,22 @@
+.Arena {  
+    max-width: 90%;
+    height: 600px;
+    margin-left: 200px;
+    margin-right: 200px;
+    width: 600px;
+}
+
+.PlayArea {
+    background: rgb(188,188,196);
+    background: linear-gradient(0deg, rgba(188,188,196,1) 45%, rgba(231,231,247,1) 84%);
+    border-left: black 10px solid;
+    border-right: black 10px solid;
+    border-top: black 10px solid;
+    height: 95%;
+}
+
+.gameText {
+    position: relative;
+    padding-top: 200px;
+    color: black;
+}

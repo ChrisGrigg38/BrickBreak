@@ -1,0 +1,29 @@
+.Block {
+    position: absolute;
+    border: black 3px solid;
+}
+
+.BlockYellow {
+    background: rgb(214,209,24);
+    background: linear-gradient(0deg, rgba(214,209,24,1) 45%, rgba(231,231,247,1) 86%);
+}
+
+.BlockBlue {
+    background: rgb(37,49,242);
+    background: linear-gradient(0deg, rgba(37,49,242,1) 45%, rgba(201,201,255,1) 86%);
+}
+
+.BlockGreen {
+    background: rgb(50,235,36);
+    background: linear-gradient(0deg, rgba(50,235,36,1) 45%, rgba(213,231,212,1) 86%);
+}
+
+.BlockRed {
+    background: rgb(235,36,36);
+    background: linear-gradient(0deg, rgba(235,36,36,1) 45%, rgba(231,212,212,1) 86%);
+}
+
+.BlockPink {
+    background: rgb(219,24,225);
+    background: linear-gradient(0deg, rgba(219,24,225,1) 45%, rgba(235,216,233,1) 86%);
+}

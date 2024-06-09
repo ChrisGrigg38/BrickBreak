@@ -1,0 +1,25 @@
+.Scoreboard {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #111111;
+}
+
+.leftSide {
+    display: flex;
+    padding-left: 20px;
+    padding-top: 15px;
+}
+
+.rightSide {
+    display: flex;
+    padding-right: 20px;
+    padding-top: 15px;
+}
+
+.startButton {
+    height: 40px;
+    width: 120px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
